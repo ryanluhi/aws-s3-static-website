@@ -21,26 +21,26 @@ All steps include screenshots for easier understanding.
 ## 2 Enable Static Website Hosting
 - In the bucket settings, go to **Properties** → **Static website hosting**.
 - Enable hosting and set **index.html** as the default page.  
-![Enable Hosting](aws-s3-static-website/image2.jpeg)
+![Enable Hosting](/image2.jpeg)
 
 
 ---
 ## 3 Upload Website Files
 - Open your newly created bucket.
 - Upload your static website files (HTML).  
-![Upload Files](aws-s3-static-website/image4.jpeg)
+![Upload Files](/image4.jpeg)
 
 ---
 ## 4 Make Files Public
 - Go to the **Permissions** tab.
 - Adjust the bucket policy to allow public access to your website.  
-![Set Permissions](aws-s3-static-website/image5.jpeg)
+![Set Permissions](/image5.jpeg)
 
 
 ---
 ## 5 Test using S3 website endpoint
 -copy the static hosting URL in a new tab
-![Testing](aws-s3-static-website/image6.jpeg)
+![Testing](/image6.jpeg)
 
 
 ---
