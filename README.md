@@ -15,7 +15,7 @@ All steps include screenshots for easier understanding.
 ## 1 Create an S3 Bucket
 - Go to the **S3 Console** and click **Create bucket**.
 - Give your bucket a unique name and select a region.  
-![Create Bucket](aws-s3-static-website/image1.jpeg)
+![Create Bucket](/image1.jpeg)
 
 ---
 ## 2 Enable Static Website Hosting
